@@ -9,6 +9,7 @@ int main()
   {
       p*=i;
   }
+  cout<<"the factorila is"<<endl;
   cout<<p<<endl;
 
 
